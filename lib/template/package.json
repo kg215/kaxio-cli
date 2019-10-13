@@ -1,0 +1,18 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@babel/core": "latest",
+    "@babel/cli": "latest",
+    "@babel/preset-env": "latest",
+    "@babel/polyfill": "latest",
+    "@babel/preset-react": "latest",
+    "@babel/preset-typescript": "latest",
+    "html-webpack-plugin": "latest",
+    "babel-loader": "latest"
+  }
+}

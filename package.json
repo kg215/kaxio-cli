@@ -1,0 +1,21 @@
+{
+  "name": "kaxio-cli",
+  "version": "1.4.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "kaxio-cli": "bin/kaxio-cli.js"
+  },
+  "author": "kaxio",
+  "license": "ISC",
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "commander": "^3.0.2",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.41.1",
+    "webpack-dev-server": "^3.8.2"
+  }
+}
